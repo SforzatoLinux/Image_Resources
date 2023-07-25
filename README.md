@@ -6,3 +6,4 @@ You can use these resources in license we specified.
 ## /logo
 It contains logo images for Sforzato Linux.
 You can use PNG image or SVG vector image.
+- To know the source of "sfz" characters, please read "source_image.md" in this directory.
